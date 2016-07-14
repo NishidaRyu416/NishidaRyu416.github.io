@@ -18,10 +18,33 @@ p {
     border-radius: 0px;
 }
 
+#content {
+    text-align: center;
+}
+
+#content img {
+    max-width: 85%;
+}
+
 .textdesign {
     color: green;
 }
 
 footer {
     text-align: center;
+}
+
+body{
+    text-align: center;
+}
+
+#app h1{
+    color:orange;
+}
+#app h2{
+    color: blue;
+    
+}
+#app h3{
+    color:navy;
 }
