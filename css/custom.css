@@ -1,0 +1,27 @@
+h1 {
+    color: gold;
+}
+
+h2 {
+    color: purple;
+}
+
+h3 {
+    color: red;
+}
+
+p {
+    color: green;
+}
+
+.navbar {
+    border-radius: 0px;
+}
+
+.textdesign {
+    color: green;
+}
+
+footer {
+    text-align: center;
+}
